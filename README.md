@@ -1,5 +1,9 @@
 # S-AES-Cryptography
 Simplified AES encryption &amp; decryption implementation in python from scratch
+
+
+
+
 key size (16 bits), the block size (16 bits) and the number of rounds (2 rounds)
 
 
